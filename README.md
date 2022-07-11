@@ -18,7 +18,7 @@
 
 <div align="center">
 
-##### Atualmente estou ligado em
+#### Atualmente estou ligado em
 
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#)
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#)
