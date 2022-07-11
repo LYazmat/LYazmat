@@ -20,7 +20,7 @@
 
 #### Atualmente estou ligado em
 
-<p style="width: 35%; max-width: 35%;">
+<div style="width: 35%; max-width: 35%;">
 
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
@@ -33,7 +33,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=black)](#) 
 [![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#) 
 
-</p>
+</div>
 
 </div>
 
