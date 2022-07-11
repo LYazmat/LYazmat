@@ -16,7 +16,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="width: 100%";>
 
 #### Atualmente estou ligado em
 
