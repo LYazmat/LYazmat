@@ -20,20 +20,20 @@
 
 #### Atualmente estou ligado em
 
-<div style="width: 35%; max-width: 35%;">
+<p style="width: 35%; max-width: 35%;">
 
-[![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#)
-[![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#)
-[![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=django&logoColor=black)](#)
-[![javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=flat&logo=javascript)](#)
-[![css3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=yellow)](#)
-[![html](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=yellow)](#)
-[![microsoftsqlserver](https://img.shields.io/badge/SQL%20Server-FFFFFF?style=flat&logo=microsoftsqlserver&logoColor=red)](#)
-[![sqlite](https://img.shields.io/badge/SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=blue)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=black)](#)
-[![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#)
+[![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
+[![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
+[![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=django&logoColor=black)](#) 
+[![javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=flat&logo=javascript)](#) 
+[![css3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=yellow)](#) 
+[![html](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=yellow)](#) 
+[![microsoftsqlserver](https://img.shields.io/badge/SQL%20Server-FFFFFF?style=flat&logo=microsoftsqlserver&logoColor=red)](#) 
+[![sqlite](https://img.shields.io/badge/SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=blue)](#) 
+[![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=black)](#) 
+[![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#) 
 
-</div>
+</p>
 
 </div>
 
