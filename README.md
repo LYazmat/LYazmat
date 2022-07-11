@@ -6,12 +6,9 @@
 ### ✨ Me chamo Marcus Vinícius ✨
 <br>
 
-#
 <div align="center">
 
-#### Redes sociais:
-
-##
+#### Redes sociais
 
 [![linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marcus-vinicius-de-miranda)
 [![instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/marcusmiran/)
@@ -21,9 +18,8 @@
 
 <div align="center">
 
-#
 ##### Atualmente estou ligado em
-##
+
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#)
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#)
 [![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=django&logoColor=black)](#)
@@ -34,7 +30,7 @@
 [![sqlite](https://img.shields.io/badge/SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=blue)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=black)](#)
 [![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#)
-#
+
 </div>
 
 <div align="center">
@@ -48,5 +44,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYazmat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-#
