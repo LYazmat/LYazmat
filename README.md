@@ -16,11 +16,11 @@
 
 </div>
 
-<div align="center" style="width: 100%";>
+<div align="center">
 
 #### Atualmente estou ligado em
 
-<div style="width: 35%; max-width: 35%;">
+<div style="max-width: 35% !important;">
 
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
