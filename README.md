@@ -1,10 +1,8 @@
 <div align="left">
 
 # Bem vindo!
-</div>
 
-### ✨ Me chamo Marcus Vinícius ✨
-<br>
+</div>
 
 <div align="center">
 
@@ -20,7 +18,7 @@
 
 #### Atualmente estou ligado em
 
-<div style="max-width: 35% !important;">
+<div style="max-width: 30%;">
 
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
