@@ -1,33 +1,29 @@
+<div align="left">
 
-<div align="right">
+# Bem vindo!
+</div>
 
-### Bem vindo! Me chamo Marcus Vinícius ✨
-Redes sociais:
+### ✨ Me chamo Marcus Vinícius ✨
+<br>
+
+#
+<div align="center">
+
+#### Redes sociais:
+
+##
 
 [![linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marcus-vinicius-de-miranda)
 [![instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/marcusmiran/)
 [![instagram](https://img.shields.io/badge/Twitch-FFFFFF?style=flat&logo=twitch&logoColor=purple)](https://www.twitch.tv/lyazmat)
 
 </div>
-<br>
 
 <div align="center">
 
-![LYazmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYazmat&show_icons=true&theme=codeSTACKr)
-
-</div>
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYazmat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<br>
-
-<div align="center">
-
-##### Atualmente estou ligado em
 #
+##### Atualmente estou ligado em
+##
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#)
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#)
 [![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=django&logoColor=black)](#)
@@ -40,3 +36,17 @@ Redes sociais:
 [![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#)
 #
 </div>
+
+<div align="center">
+
+![LYazmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYazmat&show_icons=true&theme=codeSTACKr)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYazmat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+#
