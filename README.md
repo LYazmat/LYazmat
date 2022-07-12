@@ -22,7 +22,7 @@
 
 [![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
 [![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
-[![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=django&logoColor=black)](#) 
+[![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=flask&logoColor=black)](#) 
 [![javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=flat&logo=javascript)](#) 
 [![css3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=yellow)](#) 
 [![html](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=yellow)](#) 
