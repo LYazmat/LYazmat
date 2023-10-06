@@ -49,4 +49,6 @@
 
 </div>
 
+![snake gif](https://raw.githubusercontent.com/LYazmat/LYazmat/output/github-contribution-grid-snake-dark.svg)
+
 ![snake gif](https://github.com/LYazmat/LYazmat/blob/output/github-contribution-grid-snake-dark.svg)
