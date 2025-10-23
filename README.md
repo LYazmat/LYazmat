@@ -1,52 +1,69 @@
-<div align="left">
+<div align="center">
 
-# Bem vindo!
+# 👋 Olá, eu sou Marcus Vinícius de Miranda!
 
 </div>
 
 <div align="center">
 
-#### Redes sociais
-
-[![linkedin](https://img.shields.io/badge/Linkedin-FFFFFF?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marcus-vinicius-de-miranda)
-[![instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=orange)](https://www.instagram.com/marcusmiran/)
-[![instagram](https://img.shields.io/badge/Twitch-FFFFFF?style=flat&logo=twitch&logoColor=purple)](https://www.twitch.tv/lyazmat)
+🎯 **Desenvolvedor Back-end | Python | Django | SQL | DevOps (em evolução)**  
+Apaixonado por tecnologia, automação e inovação.
 
 </div>
+
+---
+
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
-#### Atualmente estou ligado em
-
-<div style="max-width: 30%;">
-
-[![python](https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python)](#) 
-[![django](https://img.shields.io/badge/Django-FFFFFF?style=flat&logo=django&logoColor=green)](#) 
-[![flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat&logo=flask&logoColor=black)](#) 
-[![react](https://img.shields.io/badge/React-FFFFFF?style=flat&logo=react&logoColor=black)](#) 
-[![jquery](https://img.shields.io/badge/jQuery-FFFFFF?style=flat&logo=jquery&logoColor=black)](#) 
-[![javascript](https://img.shields.io/badge/Javascript-FFFFFF?style=flat&logo=javascript)](#) 
-[![css3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat&logo=css3&logoColor=yellow)](#) 
-[![html](https://img.shields.io/badge/HTML5-FFFFFF?style=flat&logo=html5&logoColor=yellow)](#) 
-[![microsoftsqlserver](https://img.shields.io/badge/SQL%20Server-FFFFFF?style=flat&logo=microsoftsqlserver&logoColor=red)](#) 
-[![sqlite](https://img.shields.io/badge/SQLite-FFFFFF?style=flat&logo=sqlite&logoColor=blue)](#) 
-[![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=black)](#) 
-[![powerbi](https://img.shields.io/badge/Power%20BI-FFFFFF?style=flat&logo=powerbi&logoColor=yellow)](#) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-de-miranda)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcusmiran/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lyazmat)
 
 </div>
 
-</div>
+---
+
+## 🚀 Tecnologias que utilizo
 
 <div align="center">
 
-![LYazmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYazmat&show_icons=true&theme=codeSTACKr)
+### 💻 **Back-end e Banco de Dados**
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
+### ⚙️ **DevOps e Ferramentas**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=gitlab&logoColor=white)](#)
+
+### 🧩 **Front-end**
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 </div>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYazmat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=LYazmat&show_icons=true&theme=codeSTACKr&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYazmat&layout=compact&theme=codeSTACKr&hide_border=true)
 
 </div>
+
+---
 
 ![snake gif](https://raw.githubusercontent.com/LYazmat/LYazmat/output/github-contribution-grid-snake-dark.svg)
